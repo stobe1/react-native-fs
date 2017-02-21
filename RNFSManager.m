@@ -15,7 +15,7 @@
 #if __has_include("RCTEventDispatcher.h")
 #import "RCTEventDispatcher.h"
 #else
-#import <React/RCTEventDispatcher.h>
+#import <RCTEventDispatcher.h>
 #endif
 
 #import <CommonCrypto/CommonDigest.h>
